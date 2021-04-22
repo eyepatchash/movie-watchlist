@@ -1,25 +1,8 @@
 
-![Alt text](MovieBrowser_1.png?raw=true "MovieBrowser")
 
-# Movie-Browser-App
-
-https://api-cinema-10d15.firebaseapp.com
+![alt text](https://cdn.discordapp.com/attachments/467363140997480459/834938837074837514/unknown.png)
+# Movie-Watchlist-App
 
 
-It's a nice app for movie browsing developed by me in order to practice the use of redux-saga and Firebase (Realtime Database). 
-Used: 
-* create-react-app;
-* bootstrap + reactstrap;
-* redux-saga;
 
-For tests: react-testing-library
-
-Application allowes: 
-* to filter and search for movie database (using TMDB API);
-* to view movie details;
-* create User Account to build own watch lists.
-
-![Alt text](MovieBrowser_2.png?raw=true "MovieBrowser")
-
-
-P.S. If you want to clone and launch this project, pay attention that src/config.js has to contain your own created API keys.
+It's an app for movie browsing and to create a watchlist made using redux-saga and Firebase (Realtime Database). 

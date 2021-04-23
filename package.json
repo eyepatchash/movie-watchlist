@@ -2,7 +2,7 @@
   "name": "movie-browser-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://movie-website-c9f8f/.firebaseapp.com",
+  "homepage": ".",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
